@@ -18,7 +18,6 @@ Simplified Chinese translation of OllyDbg
 2. source.lng 是按字母数字排序后的文件
 3. target.lng 是通过谷歌翻译后的文件
 
-更新历史
-----------
-## 1.0.0
+## 更新历史
+### Version 1.0.0
 1. 全部重新翻译一遍
