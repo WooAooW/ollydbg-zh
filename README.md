@@ -6,8 +6,14 @@ ollydbg-zh
 ==========
 Simplified Chinese translation of OllyDbg
 
-How to use
+使用指南
 ----------
-1. Download the [release file](https://github.com/greenfit/ollydbg-zh/releases). 
-2. Put it into the root folder of the OllyDbg.
-3. Select "File" -> "GUI language" -> "简体中文 (Simplified Chinese)"
+1. 下载语言文件`target.lng`文件 [release file](https://github.com/greenfit/ollydbg-zh/releases). 
+2. 把文件放到软件 `OllyDbg` 根目录下
+3. 重新打开软件，选择 "File" -> "GUI language" -> "简体中文 (Simplified Chinese)"
+
+文件说明
+----------
+1. ollydbg.lng 是原来作者翻译的文件
+2. source.lng 是按字母数字排序后的文件
+3. target.lng 是通过谷歌翻译后的文件
